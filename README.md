@@ -18,6 +18,7 @@ Or open a folder below and download single files.
 | [07_trailer_stills_bases_maxed](07_trailer_stills_bases_maxed) | 1920x1080 stills from our trailer |
 | [08_logos](08_logos) | RAINBOW = the main logo (transparent), plus the original and the tagline versions |
 | [09_our_thumbnails_for_reference](09_our_thumbnails_for_reference) | what we've uploaded so far, newest first, for reference only |
+| [10_floor_upgrade_mockups_2026-11-22](10_floor_upgrade_mockups_2026-11-22) | NEW: the look all 10 floors are being upgraded to: `full_treatment` (the target), `light_only`, `before` (the floor today). Painted over the real rooms. Mood and colour reference: the in-game floors are still being rebuilt to match, so don't sell anything in a thumbnail that isn't in the game yet |
 
 All in-game pictures are 1920x1080, no HUD.
 
@@ -97,5 +98,11 @@ All in-game pictures are 1920x1080, no HUD.
 ![](09_our_thumbnails_for_reference/2026-11-22_AB_test_GRAB_vs_FLOORS/_preview.jpg)
 ![](09_our_thumbnails_for_reference/2026-11-20_RUN_A_purple_B_pink/_preview.jpg)
 ![](09_our_thumbnails_for_reference/2026-11-19_launch_options/_preview.jpg)
+
+### 10 floor upgrade mockups (2026-11-22): today vs the new look
+![](10_floor_upgrade_mockups_2026-11-22/_preview.jpg)
+
+Floor 9 will show a daytime ocean in its windows (the tower stands on an island) and floor 10 gets a glass
+greenhouse roof with its back wall smashed open onto the sea; the mockups for those two show the older idea.
 
 Older takes (before the island ground, 2026-11-19/20) sit in the `older_*` folders inside 03 and 05.
